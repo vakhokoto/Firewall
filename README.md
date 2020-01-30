@@ -1,8 +1,8 @@
 # firewall
 
-firewall შედგება ორი ქვეპროექტისგან:
+firewall contains 2 parts:
 
 1. stateless firewall
 2. stateful firewall
 
-მეორე დაფუძნებულია პირველზე. პროექტის შესასრულებლად ასევე დაგჭირდებათ წინასწარ გამზადებული VM.
+Statefull is based on Stateless one, all links to needed resources are in statements.
