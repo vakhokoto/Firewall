@@ -1,0 +1,7 @@
+*.pyc
+__pycache__/
+.~lock.stateful_firewall.docx#
+.~lock.stateless_firewall.docx#
+.~lock.Supplements.docx#
+*.ova
+code.*
